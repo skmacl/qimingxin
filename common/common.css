@@ -1,0 +1,48 @@
+
+.background-themColor{	
+	background-color: #3399FF;
+}
+.text-themColor{
+	color: #FFFFFF;
+}
+
+.font-size-title{
+	font-size: 16px;
+}
+
+.font-size-subtitle{
+	font-size: 15px;
+}
+.font-size-banner{
+	font-size: 14px;
+}
+
+.font-size-content{
+	font-size: 14px;
+	color: #8F8F94;
+}
+.font-Mask-Color{
+	background-color: rgba(0,0,0,0.5);
+	color: #000000;
+}
+/* .content{
+	max-width: 750rpx;
+}
+ */
+.no-data{
+	
+}
+.no-more-data{
+	width: 100%;
+	height: 30px;
+	line-height: 30px;
+	font-size: 14px;
+	text-align: center;
+	opacity: .6;
+}
+.network-error{
+	
+}
+.load-error{
+	
+}
